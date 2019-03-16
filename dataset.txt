@@ -1,0 +1,5 @@
+#This link will require you to register to download the dataset.
+https://public.enigma.com/datasets/nfirs-general-incident-information-2014/f0dfa766-c897-4f00-8ea6-753b9b9177f5
+
+#Alternatively, you can download from the Google Drive link below. Access provided to rumi.chunara@nyu.edu and yc2539@nyu.edu.
+https://drive.google.com/file/d/1DlBWEiQtUiKARLLaAocp3Ej2Z3GedT7V/view?usp=sharing
